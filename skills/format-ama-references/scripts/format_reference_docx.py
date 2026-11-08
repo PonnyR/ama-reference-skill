@@ -20,7 +20,7 @@ def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
         description=(
             "Rebuild a Word reference list from a JSON array. Each array item may "
-            "be a plain string or an object with a segments array containing "
+            "be a plain string or an object with a 'segments' array containing "
             "{'text': str, 'italic': bool, 'bold': bool} objects."
         )
     )
