@@ -1,6 +1,6 @@
 # AMA Reference Formatting Skill
 
-A Codex skill for checking and formatting Word reference lists in **American Marketing Association journal style**. This is the marketing-journal style, not the American Medical Association citation style.
+A Codex skill for checking and formatting Word reference lists in **American Marketing Association journal style**. This is the AMA style for manuscript submission on Journal of Marketing, Journal of Marketing Research, Journal of Public Policy & Marketing, Journal of International Marketing, and Journal of Interactive Marketing.
 
 ## What it does
 
